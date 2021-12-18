@@ -28,6 +28,8 @@
 </p>	
 
 ## Reviews
+###此为转载，非本人制作，特此说明！###
+
 <p align="left">
     <a href="http://www.omgubuntu.co.uk/2017/01/stacer-system-optimizer-for-ubuntu">
 		<img width="65px" src="https://oguzhaninan.github.io/Stacer-Web/images/sites/site0.png"/>
